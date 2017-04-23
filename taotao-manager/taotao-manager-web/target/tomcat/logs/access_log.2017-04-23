@@ -1,0 +1,4 @@
+127.0.0.1 - - [23/Apr/2017:22:31:04 +0800] "GET / HTTP/1.1" 200 318 http-bio-8080-exec-1 702
+127.0.0.1 - - [23/Apr/2017:22:31:04 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 3
+127.0.0.1 - - [23/Apr/2017:22:31:04 +0800] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 1015 http-bio-8080-exec-5 2
+127.0.0.1 - - [23/Apr/2017:22:31:04 +0800] "GET /apple-touch-icon.png HTTP/1.1" 404 991 http-bio-8080-exec-6 2
